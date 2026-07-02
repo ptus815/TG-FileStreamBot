@@ -30,4 +30,6 @@ dist/
 
 # logs folder
 logs/
-*.log
+*.logfsb
+*.exe
+*.bin
